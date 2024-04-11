@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @yashnaik2711
-- 👀 I’m interested in Data & Cloud Technologies
-- 🌱 I’m currently learning SQL & Python
-- 📫 How to reach me ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m Tech Enthusiast
+- 👀 Who is interested in Data & Cloud Technologies
+- 🌱 currently learning SQL & Python
+- 📫 Reach me at : yashnaikworks@gmail.com
+- ⚡ Fun fact: If I am into deep work, then I forget the rest
 
